@@ -398,3 +398,5 @@ await instances.BuyerRegistry.setBuyerKycStatus(
             {from: users[2].address}
       )
 </code></pre>
+
+`close code`
